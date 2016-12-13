@@ -62,11 +62,12 @@ public class LoginActivity extends AppCompatActivity implements
         findViewById(R.id.sign_out_button).setOnClickListener(this);
         findViewById(R.id.disconnect_button).setOnClickListener(this);
 
+
         // [START config_signin]
         // Configure Google Sign In
         //debe generarse un android client ID token desde la consola de credentials en GoogleAPIs
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-                .requestIdToken("950170291870-k7gfru6v5pgpgtp7ds1oj30dv40bnt30.apps.googleusercontent.com")
+                .requestIdToken("950170291870-nh9gdccpshk5dibjgoe1kimbk2b5vlni.apps.googleusercontent.com")
                 .requestEmail()
                 .build();
         // [END config_signin]
@@ -101,8 +102,6 @@ public class LoginActivity extends AppCompatActivity implements
 
 
     }
-
-
 
 
     // [START on_start_add_listener]

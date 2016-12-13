@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DataBindingYfirebase.iml" filepath="$PROJECT_DIR$/DataBindingYfirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBinding_Y_Firebase_Demo_en_Android.iml" filepath="$PROJECT_DIR$/DataBinding_Y_Firebase_Demo_en_Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

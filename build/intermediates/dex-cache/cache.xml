@@ -1,3 +1,215 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_211fd46e95b39cc02e33f786f6a79c7cdb217a28.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_4b938fcb2ef4e515a0beac817348ca7a2b0648bb.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_ffa9eb0c0993123ab9c90a56247e90197d922273.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_3d08b35c60a23d184096dcc77dcfb38c5068fc64.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_50fd2d3a2acf3467d1d65c35f550e273cff75f42.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_1a3cc4c217f702257eaf644d12a94d4742ac3dbf.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_8b2f02d6d6672d401d5dc69e03a2b0ff23adf841.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_32c71c4ad99342d29ae8ad16683a3e4c8a4d1ac6.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b8a2b54dbc3c8fab6571028e2b255d662813d7b6.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_960c17835f499db72e051f5dd6711fba582ebfed.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_61dd2b9a4ba489e0d491615f26522a8c053f6850.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_02f19e0c6955ac0923142fdb4dd9e294638dee82.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="62a68a3d17b184ac15b4bfa3507332807d1aac4a">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\instant-run_b389c17534b30c662a5d3bfaec09667c993d54ad.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_7461bd35e78d069ea63e8591549e71479bcf2a47.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_f56189fdaac32a938609186435ad2dbd8ddedb14.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7d83d41572d47f5cb83d8ebf4bac431364b3adcb.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8917cdf2f6fce905c4f48b437e3de10b9b513f8c.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_f2debee7dc0d5d388368f0b254685618c4e611ec.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_eca163597dafdd7ffaca95b6b078ef0158d6280e.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_758f0f94182927df9ad371d92d7ce50e1db66b58.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_0d4ecc952359ef7fc0bbb82fcc3b83b00e782fa4.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b205aba882ca35c5670c0b996f54e1f850b69303.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_fb6adbcb7a1779920d92b5edd5fdd062428bcf9a.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="12f7792659574e1a2c9927d8dcbd777a803ac1e0">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e271befd67f771fd4cc285fe876356bc0e6473ad.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_f882cad1cc8ec7a2b22a5d3a5286826934262735.jar" />
+    </item>
+    <item
+        jar="C:\Users\ranvli\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_76579ebd344d0d0605419e38e479ddd711006dca.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_a1ff13b5563f16d7f21e6fd1e8c4616b0aae7760.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_c614975e9b301fb77825eac8ff9cb881971fc47b.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_e3829a3514192f893f96cffb02fd679141fc6673.jar" />
+    </item>
+    <item
+        jar="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Temporal\ULatina\DataBinding_Y_Firebase_Demo_en_Android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e7c8fa1f9a99ead76a5591bd046d65ff45706227.jar" />
+    </item>
+
+</items>

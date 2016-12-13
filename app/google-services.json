@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "950170291870-nnlgjinljhh6c23kkfure3m4pr9rth8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.ulatina.myapplication",
+            "certificate_hash": "AB8BDE94C9EAEB2649E4E313F2EEAA8AE1FA7328"
+          }
+        },
+        {
           "client_id": "950170291870-nh9gdccpshk5dibjgoe1kimbk2b5vlni.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950170291870-nh9gdccpshk5dibjgoe1kimbk2b5vlni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
