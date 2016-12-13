@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "950170291870",
+    "firebase_url": "https://compyfibaseulat.firebaseio.com",
+    "project_id": "compyfibaseulat",
+    "storage_bucket": "compyfibaseulat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950170291870:android:470a89154b0c6097",
+        "android_client_info": {
+          "package_name": "net.ulatina.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950170291870-nh9gdccpshk5dibjgoe1kimbk2b5vlni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXWr6UDyM9pJ3IawojBEWbMH-oFkEzNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
