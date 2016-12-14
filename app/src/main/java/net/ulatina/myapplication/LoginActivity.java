@@ -134,6 +134,10 @@ public class LoginActivity extends AppCompatActivity implements
                 // Google Sign In was successful, authenticate with Firebase
                 GoogleSignInAccount account = result.getSignInAccount();
                 firebaseAuthWithGoogle(account);
+
+                //iniciar activity logueado
+                Intent i = new Intent(getApplicationContext(), MainActivity.class);
+                startActivity(i);
             } else {
                 // Google Sign In failed, update UI appropriately
                 // [START_EXCLUDE]
