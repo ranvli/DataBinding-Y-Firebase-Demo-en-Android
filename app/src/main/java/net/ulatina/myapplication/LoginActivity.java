@@ -67,7 +67,7 @@ public class LoginActivity extends AppCompatActivity implements
         // Configure Google Sign In
         //debe generarse un android client ID token desde la consola de credentials en GoogleAPIs
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-                .requestIdToken("950170291870-nh9gdccpshk5dibjgoe1kimbk2b5vlni.apps.googleusercontent.com")
+                .requestIdToken(getString(R.string.default_web_client_id))
                 .requestEmail()
                 .build();
         // [END config_signin]
